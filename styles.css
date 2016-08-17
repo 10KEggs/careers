@@ -1,0 +1,8 @@
+
+.shiny-output-error-validation {
+        color: red;
+}
+
+#ProjectionTab > table > tbody > tr:nth-child(2) {
+    background-color: #FFFF99;
+}
